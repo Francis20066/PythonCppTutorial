@@ -10,6 +10,10 @@ import fibonacci_cpp
 print(fibonacci_cpp.fibonacci(10))  # 55
 ```
 
+---
+![picture](Picture.png)
+---
+
 ## 一、环境配置
 
 需要安装：

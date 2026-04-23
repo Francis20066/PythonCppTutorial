@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\embed_demo.dir/objects.a
-C:\Tools\mingw64\bin\ar.exe qc CMakeFiles\embed_demo.dir/objects.a @CMakeFiles\embed_demo.dir\objects1.rsp
-C:\Tools\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\embed_demo.dir/objects.a -Wl,--no-whole-archive -o embed_demo.exe -Wl,--out-implib,libembed_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\embed_demo.dir\linkLibs.rsp

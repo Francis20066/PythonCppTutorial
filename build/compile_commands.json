@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/Coding/py&c/Fibonacci/build",
-  "command": "C:\\Tools\\mingw64\\bin\\g++.exe -DPy_NO_LINK_LIB -Dfibonacci_cpp_EXPORTS @CMakeFiles/fibonacci_cpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\fibonacci_cpp.dir\\src\\fibonacci.cpp.obj -c \"D:\\Coding\\py&c\\Fibonacci\\src\\fibonacci.cpp\"",
-  "file": "D:/Coding/py&c/Fibonacci/src/fibonacci.cpp",
-  "output": "CMakeFiles/fibonacci_cpp.dir/src/fibonacci.cpp.obj"
-}
-]
